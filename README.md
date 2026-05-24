@@ -48,6 +48,6 @@ Currently writing a **thesis in AI/Data Science** and grinding toward **Codeforc
 ![Stats](https://github-readme-stats.vercel.app/api?username=cthboss001&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com/?user=cthboss001&theme=github-dark-blue&hide_border=true)
 
-*We don't surrender — we win, or we die.*
+*Build. Ship. Iterate.*
 
 </div>

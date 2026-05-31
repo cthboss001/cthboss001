@@ -25,7 +25,7 @@ Currently writing a **thesis in AI/Data Science** and grinding toward **Codeforc
 ---
 
 **Stack I actually use:**
-`Python` `JavaScript` `HTML/CSS` `React` `Bash` `C` `Git` `Linux`
+`Python` `JavaScript` `HTML/CSS` `React` `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Bash` `C` `Git` `Linux` `Vercel`
 
 **Currently learning:**
 `Node.js` · `REST APIs` · `SQL` · `ML fundamentals`
@@ -37,6 +37,7 @@ Currently writing a **thesis in AI/Data Science** and grinding toward **Codeforc
 | Project | What it is |
 |---|---|
 | **[tazim.dev](https://tazim.dev)** | Personal portfolio — built, deployed, SEO-configured end-to-end |
+| **[MovieVault](https://movies.tazim.dev)** | Personal movie database — automated Letterboxd + IMDb sync, fuzzy search, analytics dashboard, dual-role auth |
 | **Weight Tracker** | 60-day health experiment tracker with Chart.js + GitHub Pages |
 | **Fuel Quota Demo** | Bangladesh fuel distribution visualizer — React + glassmorphism UI |
 | **OS Lab Series** | Bash scripting, terminal clock, FCFS scheduling in C |

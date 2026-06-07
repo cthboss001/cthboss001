@@ -36,7 +36,7 @@ Currently writing a **thesis in AI/Data Science** and grinding toward **Codeforc
 
 | Project | Description |
 |---|---|
-| **[IntCart](https://www.intcart.shop)** | Production-grade single-vendor e-commerce PWA built with Next.js, TypeScript, PostgreSQL, Prisma, NextAuth.js, Zustand, Tailwind CSS, and Vercel. Live at **https://www.intcart.shop** (primary production domain) and **https://intcart.tazim.dev** (secondary deployment). Features optimistic locking, ACID transaction-based order processing, role-based access control (RBAC), TOTP/2FA authentication, Incremental Static Regeneration (ISR), PDF invoice generation, customer reviews & ratings, dynamic homepage banners, real-time admin order notifications, order status tracking, admin product/category/order management, and PWA install support. **Admin panel is fully functional and ready for real-world selling.** Currently deployed and operational, with product catalog expansion in progress. |
+| **[IntCart](https://www.intcart.shop)** | Production-grade single-vendor e-commerce PWA built with Next.js, TypeScript, PostgreSQL, and Prisma. Features ACID transactions, RBAC, TOTP/2FA, PDF invoicing, and PWA support (Live: **https://www.intcart.shop**). |
 | **[tazim.dev](https://tazim.dev)** | Personal portfolio — built, deployed, SEO-configured end-to-end |
 | **[MovieVault](https://movies.tazim.dev)** | Personal movie database — automated Letterboxd + IMDb sync, fuzzy search, analytics dashboard, dual-role auth |
 | **Weight Tracker** | 60-day health experiment tracker with Chart.js + GitHub Pages |

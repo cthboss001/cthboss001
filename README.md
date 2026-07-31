@@ -36,6 +36,7 @@ Currently writing a **thesis in AI/Data Science** and grinding toward **Codeforc
 
 | Project | Description |
 |---|---|
+| **[Thunder ⚡](https://www.thunderchat.tech)** | Production-grade private messaging platform with real-time messaging, voice/video/group calls, file sharing, and native Android support — built with NestJS, Next.js, Kotlin, WebRTC, and Socket.IO. |
 | **[IntCart](https://www.intcart.shop)** | Production-grade single-vendor e-commerce PWA built with Next.js, TypeScript, PostgreSQL, and Prisma. Features ACID transactions, RBAC, TOTP/2FA, PDF invoicing, and PWA support (Live: **https://www.intcart.shop**). |
 | **[RetinaRest](https://tazim.dev/retinarest)** | Production Windows desktop app — 20-20-20 eye protection timer, finite state machine core with crash recovery, DDD architecture, Google OAuth + guest mode, cloud sync (Supabase RLS), silent auto-updater with live progress toast, system tray integration. **11 public releases shipped.** |
 | **[tazim.dev](https://tazim.dev)** | Personal portfolio — built, deployed, SEO-configured end-to-end |

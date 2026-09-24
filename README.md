@@ -22,7 +22,7 @@
 ---
 
 Final year CSE student. Most of what I know I learned by building things and then having to keep them working.
-Currently writing a **thesis in AI/Data Science** and grinding toward **Codeforces Pupil (1200+)**.
+Currently writing a **thesis in AI/Data Science**.
 
 ---
 

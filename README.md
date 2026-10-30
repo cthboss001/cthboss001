@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="180" align="center">
-<img src="https://tazim.dev/assets/images/unnamed.png" width="150" style="border-radius:16px"/>
+<img src="https://tazim.dev/assets/images/tazim-lounge-portrait.webp" width="150" style="border-radius:16px"/>
 </td>
 <td>
 
